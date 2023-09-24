@@ -21,7 +21,7 @@
     <h3>Installation</h3>
     <ol>
         <li>Clone the repository to your local machine.</li>
-        <code>git clone https://github.com/yourusername/DaggerHiltPostsApp.git</code>
+        <code>git clone https://github.com/ProHussain/DaggerHiltPostsApp.git</code>
         <li>Open the project in Android Studio.</li>
         <li>Build and run the app on your device or emulator.</li>
     </ol>
