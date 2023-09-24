@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#3498db</color> <!-- Sky Blue -->
+    <color name="colorPrimaryDark">#2980b9</color> <!-- Darker Shade of Primary Color -->
+    <color name="colorAccent">#ff6b6b</color> <!-- Coral Red -->
+
+    <!-- Background Colors -->
+    <color name="colorBackground">#f2f2f2</color> <!-- Light Gray -->
+
+    <!-- Text Colors -->
+    <color name="colorTextPrimary">#333333</color> <!-- Dark Gray -->
+    <color name="colorTextSecondary">#666666</color> <!-- Medium Gray -->
+    <color name="colorTextTertiary">#999999</color> <!-- Light Gray -->
+
+    <!-- Button Colors -->
+    <color name="colorButton">#4caf50</color> <!-- Green -->
+
+    <!-- Error Color -->
+    <color name="colorError">#e74c3c</color> <!-- Red -->
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DaggerHiltPostsApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorSecondary">@color/colorAccent</item>
+        <item name="colorSecondaryVariant">@color/colorAccent</item>
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="android:colorForeground">@color/white</item>
+        <item name="android:colorError" tools:ignore="NewApi">@color/colorError</item>
+        <item name="android:colorButtonNormal">@color/colorButton</item>
+        <item name="android:colorControlNormal">@color/colorTextPrimary</item>
+        <item name="android:colorControlActivated">@color/colorAccent</item>
+        <item name="android:colorControlHighlight">@color/colorAccent</item>
+    </style>
+
+    <style name="Theme.DaggerHiltPostsApp" parent="Base.Theme.DaggerHiltPostsApp" />
+</resources>
